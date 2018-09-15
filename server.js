@@ -1,4 +1,11 @@
 'use strict';
+/***************************************************
+
+NOT YET SURE OF THE API FOR HISTORICAL FLIGHT PRICES.
+NEED TO DO MORE RESEARCH
+
+***********************************************/
+
 
 const Hapi = require('hapi');
 const fetch = require('node-fetch');
