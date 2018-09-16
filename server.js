@@ -2,7 +2,11 @@
 /***************************************************
 
 NOT YET SURE OF THE API FOR HISTORICAL FLIGHT PRICES.
-NEED TO DO MORE RESEARCH
+NEED TO DO MORE RESEARCH.
+
+WILL MOST LIKELY DO SOMETHING WITH SMART CONTRACTS
+AND CHANGE THE NAME OF THE APP
+
 
 ***********************************************/
 
